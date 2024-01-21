@@ -1,4 +1,4 @@
 # Tic-Tac-Toe-game
 fun game
 <br>
-Author dinesh verma
+Author (dinesh verma)
